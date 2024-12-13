@@ -1,0 +1,1 @@
+/* class Linear extends Gauge {} */

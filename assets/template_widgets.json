@@ -1,0 +1,140 @@
+// Main Widget
+{
+	"id": "main",
+	"path": "",
+	"widget": {
+		"height": 0,
+		"width": 0
+	},
+}
+
+// Type:
+// 0 -> Angular
+// 1 -> Linear
+// 2 -> Segmented
+// 3 -> Witness
+
+// Angular Widget
+{
+	"id": "angular_Widget",
+	"path": "",
+	"value": {
+		"minimum": 0,
+		"maximum": 0
+	},
+	"elements": [
+		{
+			"id": "needle",
+			"position": {
+				"x": 0,
+				"y": 0
+			},
+			"degree": {
+				"minimum": 0,
+				"maximum": 0,
+				"initial": 0
+			}
+		},{
+			"id": "valueData",
+			"position": {
+				"x": 0,
+				"y": 0
+			}
+		},{
+			"id": "unitGauge",
+			"position": {
+				"x": 0,
+				"y": 0
+			}
+		},
+	]/*,
+	"widget": {
+		"height": 0,
+		"width": 0
+	},*/
+}
+
+// Linear Widget
+{
+	"id": "linear_Widget",
+	"path": "",
+	"value": {
+		"minimum": 0,
+		"maximum": 0
+	},
+	"elements": [
+		{
+			"id": "needle",
+			"position": {
+				"x": 0,
+				"y": 0
+			}
+		},{
+			"id": "valueData",
+			"position": {
+				"x": 0,
+				"y": 0
+			}
+		},{
+			"id": "unitGauge",
+			"position": {
+				"x": 0,
+				"y": 0
+			}
+		},
+	]/*,
+	"widget": {
+		"height": 0,
+		"width": 0
+	},*/
+}
+
+// Segmented Widget
+{
+	"id": "segmented_Widget",
+	"type": 0,
+	"path": "",
+	"segments": 0,
+	"value": {
+		"minimum": 0,
+		"maximum": 0,
+		"unit": ""
+	},
+	"colours": {
+		"active": "#",
+		"inactive": "#"
+	}/*,
+	"widget": {
+		"height": 0,
+		"width": 0
+	},*/
+}
+
+// Witness Widget
+{
+	"id": "witness_Widget",
+	"widget": {
+		"height": 0,
+		"width": 0
+	},
+	"segments": 0,
+	"value": {
+		"minimum": 0,
+		"maximum": 0
+	},
+	"colours": {
+		"active": "#",
+		"inactive": "#"
+	},
+	"witnesses": [
+		{
+			"id": "",
+			"on": {
+				"path": ""
+			},
+			"off": {
+				"path": ""
+			}
+		}
+	]
+}

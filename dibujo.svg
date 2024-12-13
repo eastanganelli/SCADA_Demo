@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.74722222"
+     inkscape:cx="958.88476"
+     inkscape:cy="553.3829"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#e5ff80;fill-rule:evenodd;stroke-width:19;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.8;paint-order:stroke fill markers"
+       id="Circulo_Perfecto"
+       cx="467.0632"
+       cy="603.56879"
+       rx="200.7435"
+       ry="187.3606"
+       color="#ffff00ff" />
+    <g
+       id="g1">
+      <path
+         style="fill:#ffaaaa;fill-rule:evenodd;stroke-width:24.4667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.8;paint-order:stroke fill markers"
+         d="M 472.41635,485.73644 C 252.9368,-83.86609 1201.7844,208.57546 1201.7844,208.57546 l 259.6282,356.32346 c 0,0 140.7577,106.61319 -21.4126,215.26101 C 1259.1061,901.35187 896.65431,977.66748 691.89591,775.72156 487.13754,573.77566 472.41635,485.73644 472.41635,485.73644 Z"
+         id="Figura_Random"
+         sodipodi:nodetypes="cccssc"
+         color="#d40000ff" />
+      <text
+         xml:space="preserve"
+         style="font-size:64px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-rule:evenodd;stroke-width:19;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.8;paint-order:stroke fill markers"
+         x="790.92938"
+         y="420.22305"
+         id="Texto_Prueba"><tspan
+           sodipodi:role="line"
+           id="Texto_Dentro"
+           x="790.92938"
+           y="420.22305">Hello World</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<use id="_Image1_1" serif:id="_Image1" xlink:href="#_Image49" x="0" y="0" width="128px" height="64px" transform="matrix(0.536905,0,0,0.536905,500.46,314.921)"/>
+<g id="Scale1" serif:id="Scale">
+    <g>
+        <path d="M534.731,320.135l0,-5.214" style="fill:none;stroke:#000;stroke-width:0.56px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M542.739,318.884l0.749,-2.798" style="fill:none;stroke:#000;stroke-width:0.23px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M504.423,341.006l-2.798,-0.75" style="fill:none;stroke:#000;stroke-width:0.23px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M550.284,322.009l1.448,-2.508" style="fill:none;stroke:#000;stroke-width:0.23px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M507.548,333.46l-2.508,-1.448" style="fill:none;stroke:#000;stroke-width:0.23px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M555.944,327.8l2.867,-2.867" style="fill:none;stroke:#000;stroke-width:0.4px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M513.339,327.8l-2.867,-2.867" style="fill:none;stroke:#000;stroke-width:0.4px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M561.735,333.46l2.509,-1.448" style="fill:none;stroke:#000;stroke-width:0.23px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M518.999,322.009l-1.448,-2.508" style="fill:none;stroke:#000;stroke-width:0.23px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M564.86,341.006l2.798,-0.75" style="fill:none;stroke:#000;stroke-width:0.23px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M526.544,318.884l-0.749,-2.798" style="fill:none;stroke:#000;stroke-width:0.23px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M563.609,349.103l5.214,-0" style="fill:none;stroke:#000;stroke-width:0.56px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+        <path d="M505.674,349.103l-5.214,-0" style="fill:none;stroke:#000;stroke-width:0.56px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+</g>
+<g id="Needle1" serif:id="Needle" transform="rotate({pressureGauge_degree},{needle_position_x},{needle_position_y})">
+    <path d="M504.6,349.105c0,-0 21.482,-1.086 30.686,-1.086c0.601,0 1.087,0.487 1.087,1.086c-0,0.599 -0.486,1.085 -1.087,1.085c-9.204,-0 -30.686,-1.085 -30.686,-1.085Z" style="fill:#f00;"/>
+</g>

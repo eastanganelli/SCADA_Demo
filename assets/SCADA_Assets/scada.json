@@ -1,0 +1,48 @@
+{
+	"scada": {
+		"path": "assets/SCADA_Assets/template.svg",
+		"height": 1920.0,
+		"width": 1080.0
+	},
+	"widgets": [
+		{
+			"id": "pressureGauge",
+			"type": 0,
+			"path": "assets/SCADA_Assets/pressure_gauge.wdscada",
+			"value": {
+				"minimum": 0.0,
+				"maximum": 50.0,
+				"unit": "Bar"
+			},
+			"elements": [
+				{
+					"id": "needle",
+					"position": {
+						"x": 534.7,
+						"y": 349.2
+					},
+					"degree": {
+						"minimum": 0.0,
+						"maximum": 180.0,
+						"initial": 0.0
+					}
+				}
+			]
+		},
+		{
+			"id": "tankSegmented",
+			"type": 2,
+			"path": "assets/SCADA_Assets/tanklevel_gauge.wdscada",
+			"segments": 20,
+			"value": {
+				"minimum": 0.0,
+				"maximum": 3000.0,
+				"unit": "L"
+			},
+			"colours": {
+				"active": "008000",
+				"inactive": "000000"
+			}
+		}
+	]
+}
